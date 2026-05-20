@@ -11,3 +11,7 @@ This is a Python-based chatbot project.
 
 ## Run
 python chatbot.py
+## Output Screenshot
+
+![Output](output.png)
+![Output](output2.png)
