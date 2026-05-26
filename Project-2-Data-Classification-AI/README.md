@@ -29,7 +29,7 @@ The project uses the Iris Dataset and implements the K-Nearest Neighbors (KNN) a
 - Seaborn
 
 ---
-
+```bash
 Project-2-Data-Classification-AI
 │
 ├── main.py
@@ -40,6 +40,7 @@ Project-2-Data-Classification-AI
     ├── output1.png
     ├── output2.png
     └── output3.png
+```
 
 ---
 
