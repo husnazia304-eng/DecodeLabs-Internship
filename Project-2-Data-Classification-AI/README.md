@@ -38,4 +38,15 @@ Project-2-Data-Classification-AI
 ├── main.py
 ├── requirements.txt
 ├── README.md
-└── screenshots
+└── screenshots#
+
+# Project Screenshots
+
+### Terminal Output
+![Output 1](screenshots/output1.png)
+
+### Accuracy and F1 Score
+![Output 2](screenshots/output2.png)
+
+### Confusion Matrix
+![Output 3](screenshots/output3.png)
