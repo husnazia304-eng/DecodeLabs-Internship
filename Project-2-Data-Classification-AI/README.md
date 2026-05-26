@@ -30,16 +30,16 @@ The project uses the Iris Dataset and implements the K-Nearest Neighbors (KNN) a
 
 ---
 
-## Project Structure
-
-```bash
 Project-2-Data-Classification-AI
 │
 ├── main.py
 ├── requirements.txt
 ├── README.md
+│
 └── screenshots
-```
+    ├── output1.png
+    ├── output2.png
+    └── output3.png
 
 ---
 
@@ -85,17 +85,16 @@ The project provides:
 - Confusion Matrix Heatmap
 
 ---
-
 ## Project Screenshots
 
 ### Terminal Output
-![Output 1](screenshots/o1.png)
+![Output 1](screenshots/output1.png)
 
 ### Accuracy and F1 Score
-![Output 2](screenshots/o2.png)
+![Output 2](screenshots/output2.png)
 
 ### Confusion Matrix
-![Output 3](screenshots/graph.png)
+![Output 3](screenshots/output3.png)
 
 ---
 
