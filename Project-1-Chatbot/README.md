@@ -50,9 +50,6 @@ Super-AI-Chatbot/
 │
 ├── chatbot.py
 ├── README.md
-├── output.md
+├── output.png
 └── output2.png
 
-
-![Output](output.png)
-![Output](output2.png)
