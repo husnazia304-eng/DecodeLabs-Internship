@@ -89,13 +89,13 @@ The project provides:
 ## Project Screenshots
 
 ### Terminal Output
-![Output 1](screenshots/output1.png)
+![Output 1](screenshots/o1.png)
 
 ### Accuracy and F1 Score
-![Output 2](screenshots/output2.png)
+![Output 2](screenshots/o2.png)
 
 ### Confusion Matrix
-![Output 3](screenshots/output3.png)
+![Output 3](screenshots/graph.png)
 
 ---
 
