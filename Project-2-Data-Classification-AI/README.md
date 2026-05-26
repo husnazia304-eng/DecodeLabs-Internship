@@ -1,9 +1,9 @@
 # Data Classification Using AI
 
 ## Overview
-This project is developed as part of my Artificial Intelligence Internship at DecodeLabs. The main objective of this project is to build a machine learning classification model capable of predicting data categories using supervised learning techniques.
+This project was developed as part of my Artificial Intelligence Internship at DecodeLabs. The objective of this project is to build a machine learning classification model using supervised learning techniques.
 
-The project uses the famous Iris Dataset and implements the K-Nearest Neighbors (KNN) algorithm for classification tasks. It also demonstrates essential machine learning concepts such as data preprocessing, feature scaling, model training, prediction, and performance evaluation.
+The project uses the Iris Dataset and implements the K-Nearest Neighbors (KNN) algorithm to classify flower species based on their features. It demonstrates important machine learning concepts including data preprocessing, feature scaling, model training, prediction, and performance evaluation.
 
 ---
 
@@ -38,9 +38,55 @@ Project-2-Data-Classification-AI
 ├── main.py
 ├── requirements.txt
 ├── README.md
-└── screenshots#
+└── screenshots
+```
 
-# Project Screenshots
+---
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/husnazia304-eng/DecodeLabs-Internship.git
+```
+
+Move into the project directory:
+
+```bash
+cd DecodeLabs-Internship/Project-2-Data-Classification-AI
+```
+
+Install required libraries:
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## How to Run
+
+Run the following command in terminal:
+
+```bash
+python main.py
+```
+
+---
+
+## Output
+The project provides:
+- Dataset Information
+- Model Predictions
+- Accuracy Score
+- F1 Score
+- Classification Report
+- Confusion Matrix Heatmap
+
+---
+
+## Project Screenshots
 
 ### Terminal Output
 ![Output 1](screenshots/output1.png)
@@ -50,3 +96,36 @@ Project-2-Data-Classification-AI
 
 ### Confusion Matrix
 ![Output 3](screenshots/output3.png)
+
+---
+
+## Learning Outcomes
+Through this project, I learned:
+- Fundamentals of supervised learning
+- Data preprocessing techniques
+- Model training and testing
+- Machine learning workflow
+- Model evaluation methods
+- Visualization of classification results
+
+---
+
+## Future Improvements
+- Implement additional classification algorithms
+- Compare performance of multiple models
+- Add GUI for better user interaction
+- Deploy model as a web application
+
+---
+
+## Internship Details
+Artificial Intelligence Internship Program  
+Powered by DecodeLabs
+
+---
+
+## Author
+Husna Zia
+
+GitHub:
+https://github.com/husnazia304-eng
