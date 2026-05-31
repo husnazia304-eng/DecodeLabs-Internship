@@ -145,13 +145,13 @@ TOP RECOMMENDATIONS FOR YOU:
 # 📸 Output Screenshots
 
 ## Home Screen
-![Output 1](screenshots/output1.png)
+![Output 1](screenshots/output1.PNG)
 
 ## Recommendation Results
-![Output 2](screenshots/output2.png)
+![Output 2](screenshots/output2.PNG)
 
 ## Final Output
-![Output 3](screenshots/output3.png)
+![Output 3](screenshots/output3.PNG)
 
 ---
 
